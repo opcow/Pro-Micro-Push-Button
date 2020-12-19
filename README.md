@@ -4,6 +4,8 @@ This is a single pushbutton. You could use it as a push to talk button, a jump b
 
 This design fits my Chinese Pro Micro knockoff perfectly, but may not fit every board as well. A step file of the assembly is included for easy modification.
 
+I print the conical cap pointy end down using a brim for bed adhesion. Supports are not needed for any parts.
+
 Non-printable parts needed:
 
 * [Pro Micro Arduino microcontroller](https://deskthority.net/wiki/Arduino_Pro_Micro).
