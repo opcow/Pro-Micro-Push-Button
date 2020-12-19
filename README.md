@@ -6,6 +6,8 @@ This design fits my Chinese Pro Micro knockoff perfectly, but may not fit every 
 
 I print the conical cap pointy end down using a brim for bed adhesion. Supports are not needed for any parts.
 
+I use Cura's dynamic quality at 0.16 layer height. This setting adjusts the layer height based on model detail. If your slicer doesn't offer this functionality, you might want to use a finer printing setting if you have trouble with the threads. I've found that my threads fit best using Cura and also work well using PrusaSlicer. ideaMaker didn't make good threads in my tests, but YMMV. I didn't test any other slicers.
+
 Non-printable parts needed:
 
 * [Pro Micro Arduino microcontroller](https://deskthority.net/wiki/Arduino_Pro_Micro).
