@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'D:/Downloads/Pro Micro Button/Pro Micro Button v0.step',
-/* time_stamp */ '2020-12-19T16:45:43-05:00',
+/* name */ 'D:/Downloads/Pro Micro Button/Pro Micro Button v1.step',
+/* time_stamp */ '2020-12-19T18:04:59-05:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -129,9 +129,9 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 'extended-button:1');
 #58=NEXT_ASSEMBLY_USAGE_OCCURRENCE('short-button:1','short-button:1',
 'short-button:1',#30501,#30506,'short-button:1');
-#59=NEXT_ASSEMBLY_USAGE_OCCURRENCE('microswitch-adapter:1',
-'microswitch-adapter:1','microswitch-adapter:1',#30501,#30507,
-'microswitch-adapter:1');
+#59=NEXT_ASSEMBLY_USAGE_OCCURRENCE('micro-switch-adapter:1',
+'micro-switch-adapter:1','micro-switch-adapter:1',#30501,#30507,
+'micro-switch-adapter:1');
 #60=NEXT_ASSEMBLY_USAGE_OCCURRENCE('switch-mount:1','switch-mount:1',
 'switch-mount:1',#30501,#30508,'switch-mount:1');
 #61=NEXT_ASSEMBLY_USAGE_OCCURRENCE('plug:1','plug:1','plug:1',#30501,#30509,
@@ -39151,15 +39151,15 @@ SOLID_ANGLE_UNIT()
 #30498=SHAPE_REPRESENTATION('',(#8482),#30438);
 #30499=SHAPE_REPRESENTATION('',(#8553),#30439);
 #30500=PRODUCT_DEFINITION_CONTEXT('part definition',#30544,'design');
-#30501=PRODUCT_DEFINITION('Pro Micro Button','Pro Micro Button v0',#30515,
+#30501=PRODUCT_DEFINITION('Pro Micro Button','Pro Micro Button v1',#30515,
 #30500);
 #30502=PRODUCT_DEFINITION('case-a','case-a',#30516,#30500);
 #30503=PRODUCT_DEFINITION('collar','collar',#30517,#30500);
 #30504=PRODUCT_DEFINITION('conical-cap','conical-cap',#30518,#30500);
 #30505=PRODUCT_DEFINITION('extended-button','extended-button',#30519,#30500);
 #30506=PRODUCT_DEFINITION('short-button','short-button',#30520,#30500);
-#30507=PRODUCT_DEFINITION('microswitch-adapter','microswitch-adapter',#30521,
-#30500);
+#30507=PRODUCT_DEFINITION('micro-switch-adapter','micro-switch-adapter',
+#30521,#30500);
 #30508=PRODUCT_DEFINITION('switch-mount','switch-mount',#30522,#30500);
 #30509=PRODUCT_DEFINITION('plug','plug',#30523,#30500);
 #30510=PRODUCT_DEFINITION('flat-cap','flat-cap',#30524,#30500);
@@ -39181,16 +39181,16 @@ SOLID_ANGLE_UNIT()
 #30526=PRODUCT_DEFINITION_FORMATION('',$,#30557);
 #30527=PRODUCT_DEFINITION_FORMATION('',$,#30558);
 #30528=PRODUCT_DEFINITION_FORMATION('',$,#30559);
-#30529=PRODUCT_RELATED_PRODUCT_CATEGORY('Pro Micro Button v0',
-'Pro Micro Button v0',(#30546));
+#30529=PRODUCT_RELATED_PRODUCT_CATEGORY('Pro Micro Button v1',
+'Pro Micro Button v1',(#30546));
 #30530=PRODUCT_RELATED_PRODUCT_CATEGORY('case-a','case-a',(#30547));
 #30531=PRODUCT_RELATED_PRODUCT_CATEGORY('collar','collar',(#30548));
 #30532=PRODUCT_RELATED_PRODUCT_CATEGORY('conical-cap','conical-cap',(#30549));
 #30533=PRODUCT_RELATED_PRODUCT_CATEGORY('extended-button',
 'extended-button',(#30550));
 #30534=PRODUCT_RELATED_PRODUCT_CATEGORY('short-button','short-button',(#30551));
-#30535=PRODUCT_RELATED_PRODUCT_CATEGORY('microswitch-adapter',
-'microswitch-adapter',(#30552));
+#30535=PRODUCT_RELATED_PRODUCT_CATEGORY('micro-switch-adapter',
+'micro-switch-adapter',(#30552));
 #30536=PRODUCT_RELATED_PRODUCT_CATEGORY('switch-mount','switch-mount',(#30553));
 #30537=PRODUCT_RELATED_PRODUCT_CATEGORY('plug','plug',(#30554));
 #30538=PRODUCT_RELATED_PRODUCT_CATEGORY('flat-cap','flat-cap',(#30555));
@@ -39203,13 +39203,13 @@ SOLID_ANGLE_UNIT()
 #30544=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #30545=PRODUCT_CONTEXT('part definition',#30544,'mechanical');
-#30546=PRODUCT('Pro Micro Button','Pro Micro Button v0',$,(#30545));
+#30546=PRODUCT('Pro Micro Button','Pro Micro Button v1',$,(#30545));
 #30547=PRODUCT('case-a','case-a',$,(#30545));
 #30548=PRODUCT('collar','collar',$,(#30545));
 #30549=PRODUCT('conical-cap','conical-cap',$,(#30545));
 #30550=PRODUCT('extended-button','extended-button',$,(#30545));
 #30551=PRODUCT('short-button','short-button',$,(#30545));
-#30552=PRODUCT('microswitch-adapter','microswitch-adapter',$,(#30545));
+#30552=PRODUCT('micro-switch-adapter','micro-switch-adapter',$,(#30545));
 #30553=PRODUCT('switch-mount','switch-mount',$,(#30545));
 #30554=PRODUCT('plug','plug',$,(#30545));
 #30555=PRODUCT('flat-cap','flat-cap',$,(#30545));
