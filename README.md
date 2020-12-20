@@ -1,6 +1,6 @@
 # 3D Printable Pro Micro Based Push Button
 
-This is a single pushbutton. You could use it as a push to talk button, a jump button for games that are playable with 1 button (e.g. I use it for tthe game Geometry Dash), or whatever. The button can emulate any combination of keyboard key, mouse button, and game controller button inputs.
+This is a single pushbutton. You could use it as a push to talk button, a jump button for games that are playable with 1 button (e.g. I use it for the game Geometry Dash), or whatever. The button can emulate any combination of keyboard key, mouse button, and game controller button inputs.
 
 This design fits my Chinese Pro Micro knockoff perfectly, but may not fit every board as well. A step file of the assembly is included for easy modification.
 
